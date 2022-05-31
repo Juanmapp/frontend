@@ -1,11 +1,38 @@
-header {border: ;
+header {text-align: center;
     background-color:#E6E6E6;
+    margin-bottom: 0px;
 }
 h1 {background-color:#C4C4C4;
     color: #005677;
     font-family: Times New Roman;
     text-align: center;
-    
+    font-size:35px;
+    line-height: 30px 85%;  
+    font font-style: bold;
+    letter-spacing: 0.3em;
+    margin-bottom: 100px;
+    margin-top: 0px;
 
+}
+h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: Times New Roman;
+    text-transform: uppercase;
+    line-height: 85%;
+    line-height: 40px;
+    letter-spacing: 0.2em;
+}
+footer {
+    background-color: #005677;
+    text-align: center;
+    background-position: center;
+    font-family: Times New Roman;
+    color: #FFFFFF;
+    margin-top: 100px;
+}
+.negritaCursiva {
+    font-weight: bold;
+    font-style: italic;
 }
 
