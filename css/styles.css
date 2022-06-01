@@ -2,6 +2,7 @@ header {text-align: center;
     background-color:#E6E6E6;
     margin-bottom: 0px;
 }
+.imagen {}
 h1 {background-color:#C4C4C4;
     color: #005677;
     font-family: Times New Roman;
@@ -25,11 +26,13 @@ h2 {
 }
 footer {
     background-color: #005677;
+    font-size: 20px;
     text-align: center;
     background-position: center;
     font-family: Times New Roman;
     color: #FFFFFF;
     margin-top: 100px;
+    padding: 11px;
 }
 .negritaCursiva {
     font-weight: bold;
